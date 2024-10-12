@@ -9,3 +9,4 @@ const soma: OperacaoMatematica = {
 }
 
 console.log(soma.fn(20,20))
+
